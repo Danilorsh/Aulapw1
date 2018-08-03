@@ -1,2 +1,1 @@
-# Aulapw1
-Etec
+Primeiros passos para desenvolvimento de sistemas ETEC.
