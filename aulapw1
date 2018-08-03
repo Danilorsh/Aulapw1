@@ -4,7 +4,8 @@ Etec
 <HEAD>
 <title>ETEC TESTE PANTERAS</title>
 <BODY>
-<body style="background-color:ORANGE;">
+<h2>HTML Image</h2>
+<img src="fundo.jpg" alt="Trulli" width="500" height="333">
 <H2 style="text-align:center;">Solução dos seus problemas </H2>
 <p style="text-align:center;">Solução dos seus problemas.</p>
 <H2> Solução dos seus problemas </1>
@@ -12,6 +13,7 @@ Etec
 <img src="SETABAIXO.PNG" width="84" height="122">
 <img src="programacao_oculos.jpg" alt="http://34.239.92.6/wp-content/uploads/2018/05/programacao_oculos.jpg" width="104" height="142">
 <p> Etec Zona Leste</p>	
+
 </body>
-</html> new
+</html>
 
